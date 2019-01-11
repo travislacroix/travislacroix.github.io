@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Philosophy, University of California, Irvine, 2020 (expected)
+* M.A. in Social Science, University of California, Irvine, 2018
+* M.A. in Philosophy, Simon Fraser University, 2016
+* B.A. (Hons.) in Philosophy and English Literature, University of British Columbia, 2014
+* A.A. (Hons.) in English, Camosun College, 2011
 
-Work experience
+Appointments
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2018 - June 2019: Visiting Research
+  * Montréal Institute for Learning Algorithms
+  * Montréal, QC, Canada
+  * Supervisor: Yoshua Bengio
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+%Skills
+%======
+%* Skill 1
+%* Skill 2
+%  * Sub-skill 2.1
+%  * Sub-skill 2.2
+%  * Sub-skill 2.3
+%* Skill 3
 
 Publications
 ======
@@ -54,6 +51,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+%Service and leadership
+%======
+%* Currently signed in to 43 different slack teams

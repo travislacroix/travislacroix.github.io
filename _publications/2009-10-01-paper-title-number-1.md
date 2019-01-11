@@ -12,4 +12,4 @@ In Lewis' (1969) conception of a signalling game, salience is offered as an expl
 
 [Download paper here](doi.org/10.1007/s11229-018-1766-z)
 
-Recommended citation: LaCroix, Travis. (2018). "On Salience and Signaling in Sender-Receiver Games: Partial Pooling, Learning, and Focal Points." <i>Syntehse</i>. Forthcoming.
+Recommended citation: LaCroix, Travis. (2018). "On Salience and Signaling in Sender-Receiver Games: Partial Pooling, Learning, and Focal Points." <i>Synthese</i>. Forthcoming.

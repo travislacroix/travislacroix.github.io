@@ -106,7 +106,7 @@ author:
   pinterest        :
   philpeople       : "https://philpeople.org/profiles/travis-lacroix"
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
@@ -197,10 +197,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
+      read_time: false
+      comments: false
       share: false
-      related: true
+      related: false
   # _pages
   - scope:
       path: ""
@@ -216,7 +216,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
-      comments: true
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -225,7 +225,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
-      comments: true
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -234,7 +234,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
-      comment: true
+      comment: false
   # _talks
   - scope:
       path: ""

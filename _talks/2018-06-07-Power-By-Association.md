@@ -2,10 +2,10 @@
 title: "On the Role of Power in the Evolution of Inequitable Norms"
 collection: talks
 type: "talk"
-permalink: /talks/2018-06-07-Power-By-Association
-venue: "Canadian Philosophical Association", "Philogica V and ALFAn V"
-date: 2018-05-17, 2018-06-07
-location: "Montréal QC", "Villa de Leyva, CO"
+permalink:
+venue: "Canadian Philosophical Association"
+date: 2018-05-17
+location: "Montréal QC"
 ---
 
 <details><summary>Abstract</summary>

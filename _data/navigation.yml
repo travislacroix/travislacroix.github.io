@@ -7,16 +7,13 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
+    url: /teaching/
     
   - title: "CV"
     url: /files/tlacroix_CV_2019.pdf
-    
-#  - title: "Guide"
-#    url: /markdown/
+
+#  - title: "Blog Posts"
+#    url: /year-archive/
+
+#  - title: "Atlas!"
+#    url: /atlas/

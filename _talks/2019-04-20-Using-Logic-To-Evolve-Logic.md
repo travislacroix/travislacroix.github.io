@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2019-04-20-Using-Logic-To-Evolve-Logic
 venue: "American Philosophical Association, Pacific Division"
-date: 2012-03-01
+date: 2019-04-20
 location: "Vancouver, BC"
 ---
 

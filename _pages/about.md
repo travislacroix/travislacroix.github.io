@@ -12,4 +12,4 @@ I'm a Ph.D candidate in the department of [Logic and Philosophy of Science](http
 
 I previously received an MA in Social Science from the [Institute for Mathematical Behavioral Sciences](https://www.imbs.uci.edu/ "Institute for Mathematical Behavioral Sciences) at UC Irvine, as well as an MA in Philosophy from [Simon Fraser University](https://sfu.ca/ "Simon Fraser University") and a BA in Philosophy (hons.) and English Literature from the [University of British Columbia](https://ubc.ca/ "University of British Columbia").
 
-My primary research interests concern the evolution of social-dynamical phenomena in general---specifically the evolution of linguistic phenomena, including communciation, meaning, and compositionality. 
+My primary research interests concern the evolution of social-dynamical phenomena in general—specifically the evolution of linguistic phenomena, including communciation, meaning, and compositionality. 

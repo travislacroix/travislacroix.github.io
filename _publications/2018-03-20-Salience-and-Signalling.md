@@ -13,6 +13,6 @@ citation: 'LaCroix, Travis. (2018). "On Salience and Signaling in Sender-Receive
 
 In Lewis' (1969) conception of a signalling game, salience is offered as an explanation for how individuals may come to agree upon a linguistic convention. Skyrms (2010) offers a dynamic explanation of how signalling conventions might arise presupposing no salience whatsoever. I extend the atomic signalling game to include a variable parameter which allows for 'degrees' of salience, thus filling in the continuum between Skyrms' and Lewis' respective models.
 
-[Download paper here](doi.org/10.1007/s11229-018-1766-z)
+[Download paper here](https://doi.org/10.1007/s11229-018-1766-z "Salience and Signaling")
 
 Recommended citation: LaCroix, Travis. (2018). "On Salience and Signaling in Sender-Receiver Games: Partial Pooling, Learning, and Focal Points." _Synthese_. Forthcoming.

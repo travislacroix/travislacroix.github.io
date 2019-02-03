@@ -9,16 +9,8 @@ My research centres on philosophical questions surrounding the biological and cu
 
 My primary research programme focuses upon the evolution of language as a social phenomenon.
 
-In Lewis&apos; (1969) conception of a signalling game, salience is offered as an explanation for how individuals may come to agree upon a linguistic convention. Skyrms (2010) offers a dynamic explanation of how signalling conventions might arise presupposing no salience whatsoever. I extend the atomic signalling game to include a variable parameter which allows for &apos;degrees&apos; of salience, thus filling in the continuum between Skyrms&apos; and Lewis&apos; respective models.
-
-[Official Version Available Here.](https://doi.org/10.1007/s11229-018-1766-z "Salience and Signaling, Synthese")
-
-[Pre-Print Version Available Here.](https://travislacroix.github.io/files/2018-03-20-Salience-and-Signalling.pdf "Salience and Signaling, Pre-Print") (Please cite official version.)
-
-Recommended citation: LaCroix, Travis. (2018). "On Salience and Signaling in Sender-Receiver Games: Partial Pooling, Learning, and Focal Points." _Synthese_. Forthcoming.
-
 <details>
-   <summary><a> <strong> Using Logic to Evolve More Logic: Composing Logical Operators via Self-Assembly </strong></a> </summary>
+   <summary><a> <strong> Power by Association </strong></a> </summary>
       <p>
          We examine how power might influence the cultural evolution of inequitable norms between discernible groups (such as gender or racial groups) in a population of otherwise identical individuals.
       </p>
@@ -31,7 +23,7 @@ Recommended citation: LaCroix, Travis. (2018). "On Salience and Signaling in Sen
 </details>
 
 <details>
-   <summary><a> <strong> Using Logic to Evolve More Logic: Composing Logical Operators via Self-Assembly </strong></a> </summary>
+   <summary><a> <strong> On Salience and Signalling in Sender-Receiver Games: Partial-Pooling, Learning, and Focal Points </strong></a> </summary>
       <p>
          In Lewis&apos; (1969) conception of a signalling game, salience is offered as an explanation for how individuals may come to agree upon a linguistic convention. Skyrms (2010) offers a dynamic explanation of how signalling conventions might arise presupposing no salience whatsoever. I extend the atomic signalling game to include a variable parameter which allows for &apos;degrees&apos; of salience, thus filling in the continuum between Skyrms&apos; and Lewis&apos; respective models.
       </p>
@@ -42,6 +34,6 @@ Recommended citation: LaCroix, Travis. (2018). "On Salience and Signaling in Sen
          [Pre-Print Version Available Here.](https://travislacroix.github.io/files/2018-03-20-Salience-and-Signalling.pdf "Salience and Signaling, Pre-Print") (Please cite official version.)
       </p>
       <p>
-         Recommended citation: LaCroix, Travis. (2018). "On Salience and Signaling in Sender-Receiver Games: Partial Pooling, Learning, and Focal Points." <i>Synthese</i>. Forthcoming.
+         Recommended citation: LaCroix, Travis. (2018). "On Salience and Signaling in Sender-Receiver Games: Partial Pooling, Learning, and Focal Points." _Synthese_. Forthcoming.
       </p>
 </details>

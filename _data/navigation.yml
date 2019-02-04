@@ -11,6 +11,9 @@ main:
     
   - title: "CV"
     url: /files/tlacroix_CV_2019.pdf
+  
+  - title: "Contact"
+    url: /contact/
 
 #  - title: "Blog Posts"
 #    url: /year-archive/

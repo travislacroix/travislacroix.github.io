@@ -1,11 +1,11 @@
 ---
-permalink: /
+permalink: /apropos/
 title: "À propos"
 excerpt: "À propos"
 author_profile: true
 redirect_from: 
-  - /about-fr/
-  - /about-fr.html
+  - /apropos/
+  - /apropos.html
 ---
 
 Je suis candidat au doctorat au département de [logique et de philosophie des sciences](https://www.lps.uci.edu "logique et de philosophie des sciences") de [l’Université de Californie à Irvine](https://uci.edu "l’Université de Californie à Irvine"), sous la direction de [Jeffrey A. Barrett](http://faculty.sites.uci.edu/jeffreybarrett/ "Jeffrey A. Barrett"). Je suis actuellement chercheuse invitée à [l'Institut d'algorithmes d'apprentissage du Québec](https://mila.quebec/ "l'Institut d'algorithmes d'apprentissage du Québec"), associée à [Université de Montréal](https://www.umontreal.ca/ "Université de Montréal"), sous la direction de [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/ "Yoshua Bengio").

@@ -18,4 +18,4 @@ My primary research interests concern the biological and cultural evolution of c
 
 My Erd&#246;s number is 4, along the following path:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jeffrey A. Barrett &rarr Brian Skyrms &rarr Persi Diaconis &rarr Paul Erd&#246;s
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jeffrey A. Barrett &#8594; Brian Skyrms &#8594; Persi Diaconis &#8594; Paul Erd&#246;s

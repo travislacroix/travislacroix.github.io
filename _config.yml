@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Travis LaCroix"
+title                    : "Dr Travis LaCroix"
 title_separator          : "-"
-name                     : &name "Travis LaCroix"
-description              : &description "Ph.D Cadidate in Logic and Philosophy of Science"
+name                     : &name "Dr Travis LaCroix"
+description              : &description "Ph.D in Logic and Philosophy of Science"
 url                      : https://travislacroix.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "travislacroix.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Travis LaCroix"
+  name             : "Dr Travis LaCroix"
   avatar           : "Mila2019-09-13_web_credMaryseBoyce_9016.jpg"
-  bio              : "Ph.D Candidate in the Department of Logic and Philosophy of Science, UC Irvine; <br> <br> Visiting Researcher at Mila, the Québec AI Institute <br><br> (Photo: Maryse Boyce)"
+  bio              : "Visiting Researcher at Mila, the Québec AI Institute <br><br> PhD in Logic and Philosophy of Science, UC Irvine; <br> <br> (Photo: Maryse Boyce)"
   location         : "Montréal, PQ, Canada"
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=8vGy1pEAAAAJ&hl=en&oi=ao"

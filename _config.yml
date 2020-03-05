@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Dr Travis LaCroix"
+title                    : "Travis LaCroix, PhD"
 title_separator          : "-"
 name                     : &name "Dr Travis LaCroix"
 description              : &description "Ph.D in Logic and Philosophy of Science"

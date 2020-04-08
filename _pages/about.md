@@ -18,8 +18,6 @@ My dissertation, "Complex Signals: Reflexivity, Hierarchical Structure, and Modu
 
 I previously received an M.A. in Social Science from the [Institute for Mathematical Behavioral Sciences](https://www.imbs.uci.edu/ "Institute for Mathematical Behavioral Sciences") at UC Irvine, as well as an M.A. in Philosophy from [Simon Fraser University](https://www.sfu.ca/ "Simon Fraser University") and a B.A. in Philosophy (Hons.) and English Literature from the [University of British Columbia](https://www.ubc.ca/ "University of British Columbia").
 
-My primary research interests concern the biological and cultural evolution of complex social-dynamical phenomena in general—specifically the evolution of linguistic phenomena, including communication, meaning, and compositionality. My work draws upon evolutionary biology, linguistics, cognitive systems, and machine learning.
-
 My Erd&#246;s number is 4, along the following path:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jeffrey A. Barrett &#8594; Brian Skyrms &#8594; Persi Diaconis &#8594; Paul Erd&#246;s

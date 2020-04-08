@@ -10,11 +10,11 @@ redirect_from:
 
 I am a philosopher of language, science, and biology whose work is very much informed by evolutionary game theory.
 
-I am currently a visiting researcher at [Mila - Québec Artificial Intelligence Institute](https://mila.quebec/ "Québec Artificial Intelligence Institute"), where I am supervised by [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/ "Yoshua Bengio"). 
+I am currently a postdoctoral fellow at [Université de Montréal (Dept. of Computer Science and Operations Research)](https://diro.umontreal.ca/accueil/ "DIRO - UdeM") and [Mila - Québec Artificial Intelligence Institute](https://mila.quebec/ "Québec Artificial Intelligence Institute"), where I study ethically aligned artificial intelligence. I am supervised by [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/ "Yoshua Bengio") and [Dominic Martin](https://sites.google.com/view/dmartin/ai-ethics?authuser=0 "Dominic Martin") (UQàM). 
 
-I will receive my PhD (2020) from the department of [Logic and Philosophy of Science](https://www.lps.uci.edu "Logic and Philosophy of Science") at the [University of California, Irvine](https://uci.edu "University of California, Irvine"), where I was supervised by [Jeffrey A. Barrett](http://faculty.sites.uci.edu/jeffreybarrett/ "Jeffrey A. Barrett"). 
+I received my PhD (2020) from the department of [Logic and Philosophy of Science](https://www.lps.uci.edu "Logic and Philosophy of Science") at the [University of California, Irvine](https://uci.edu "University of California, Irvine"), where I was supervised by [Jeffrey A. Barrett](http://faculty.sites.uci.edu/jeffreybarrett/ "Jeffrey A. Barrett"). 
 
-My dissertation, "Complex Signals: Reflexivity, Hierarchical Structure, and Modular Composition", discusses a novel process by which language might have evolved via modular composition of communicative structures. It was successfully defended on 02 March 2020. My committee was composed of Jeffrey A. Barrett (Chair), Brian Skyrms, Simon M. Huttegger, and Cailin O'Connor.
+My dissertation, "Complex Signals: Reflexivity, Hierarchical Structure, and Modular Composition", discusses a novel process by which language might have evolved via modular composition of communicative structures. My committee was composed of Jeffrey A. Barrett (Chair), Brian Skyrms, Simon M. Huttegger, and Cailin O'Connor.
 
 I previously received an M.A. in Social Science from the [Institute for Mathematical Behavioral Sciences](https://www.imbs.uci.edu/ "Institute for Mathematical Behavioral Sciences") at UC Irvine, as well as an M.A. in Philosophy from [Simon Fraser University](https://www.sfu.ca/ "Simon Fraser University") and a B.A. in Philosophy (Hons.) and English Literature from the [University of British Columbia](https://www.ubc.ca/ "University of British Columbia").
 

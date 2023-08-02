@@ -11,6 +11,9 @@ main:
     
   - title: "CV"
     url: /files/tlacroix-CV-2022-10-21.pdf
+
+  - title: "Autistic Philosophy"
+    url: /autphi/
   
   - title: "Contact"
     url: /contact/

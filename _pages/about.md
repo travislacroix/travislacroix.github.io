@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor in the [Department of Philosophy](https://www.dal.ca/faculty/arts/philosophy.html "Dal Philo") at [Dalhousie University](https://www.dal.ca/ "Dal"). I teach in the philosophy department and the Faculty of Computer Science. 
+I am currently an assistant professor in the [Department of Philosophy](https://www.dal.ca/faculty/arts/philosophy.html "Dal Philo") at [Dalhousie University](https://www.dal.ca/ "Dal"). I teach in the philosophy department and the Faculty of Computer Science. In Fall 2024, I will be joining Durham University's [Philosophy Deparment](https://www.durham.ac.uk/departments/academic/philosophy/ "Durham Philo") as an assistant professor.
 
 Previously, I held a postdoctoral fellowship (2020-21) at [Mila - Québec Artificial Intelligence Institute](https://mila.quebec/ "Mila") and the [Department of Computer Science and Operations Research](https://diro.umontreal.ca/accueil/ "DIRO - UdeM") ([Université de Montréal](https://www.umontreal.ca "UdeM")), where I studied ethically aligned artificial intelligence with [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/ "Yoshua Bengio") (Mila, UdeM, CIFAR) and [Dominic Martin](https://sites.google.com/view/dmartin/ai-ethics?authuser=0 "Dominic Martin") (UQàM).
 

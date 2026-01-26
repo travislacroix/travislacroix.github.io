@@ -10,9 +10,14 @@ author_profile: true
 
 .course-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-template-columns: 1fr;
   gap: 1.5rem;
-  margin: 2rem 0;
+}
+
+@media (min-width: 1100px) {
+  .course-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 .course-card {
@@ -60,8 +65,6 @@ summary em {
 }
 </style>
 
-## Teaching Experience
-
 ---
 
 ## Instructor of Record
@@ -100,7 +103,7 @@ Topics include moral monsters, moral panics, and metaethics.
 <div class="course-card">
 <h4>Ethics and Bias in Data Science</h4>
 <div class="course-meta">PHIL 42415 · 2024–2026</div>
-<div class="course-role">Lectures · Master’s Seminars</div>
+<div class="course-role">Lectures · Master's Seminars</div>
 <div class="course-description">
 From curation to crawling: paradigm shifts in AI research.
 </div>
@@ -136,7 +139,7 @@ From curation to crawling: paradigm shifts in AI research.
 Ethical, social, and professional issues arising from digital technologies, with emphasis on the distinctive normative challenges of hardware, software, and data.
 <br><br>
 <strong>Syllabus:</strong>  
-[Winter 2024](https://travislacroix.github.io/files/LaCroix-Dalhousie-PHIL-2490-CSCI-3101-Winter-2024-Syllabus.pdf)
+<a href="https://travislacroix.github.io/files/LaCroix-Dalhousie-PHIL-2490-CSCI-3101-Winter-2024-Syllabus.pdf">Winter 2024</a>
 </details>
 </div>
 
@@ -163,7 +166,7 @@ Ethical and philosophical challenges posed by socially embedded AI systems, focu
 Formal approaches to social explanation, including evolutionary game theory, network models, and agent-based models.
 <br><br>
 <strong>Syllabus:</strong>  
-[Autumn 2023](http://travislacroix.github.io/files/LaCroix-Dalhousie-Fall-2023-PHIL-3520-5520-POLI-3496-Syllabus.pdf)
+<a href="http://travislacroix.github.io/files/LaCroix-Dalhousie-Fall-2023-PHIL-3520-5520-POLI-3496-Syllabus.pdf)">Autumn 2023</a>
 </details>
 </div>
 
@@ -190,7 +193,7 @@ Inductive logic and probabilistic reasoning for understanding scientific inferen
 Autism as a philosophically rich topic spanning ethics, philosophy of mind, philosophy of psychology, and philosophy of medicine.
 <br><br>
 <strong>Syllabus:</strong>  
-[Autumn 2022](https://travislacroix.github.io/files/LaCroix-Dalhousie-Fall-2022-PHIL-4070-5070-Syllabus.pdf)
+<a href="https://travislacroix.github.io/files/LaCroix-Dalhousie-Fall-2022-PHIL-4070-5070-Syllabus.pdf">Autumn 2022</a>
 </details>
 </div>
 
@@ -212,4 +215,4 @@ Autism as a philosophically rich topic spanning ethics, philosophy of mind, phil
 Ethical, philosophical, and technical challenges of aligning artificial intelligence with human values.
 <br><br>
 <strong>Syllabus:</strong>  
-[Summer 2021](https://travislacroix.github.io/files/LaCroix-PHIL-455-Syl)
+<a href="https://travislacroix.github.io/files/LaCroix-PHIL-455-Syl">Summer 2021]</a>

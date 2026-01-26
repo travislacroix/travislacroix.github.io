@@ -143,7 +143,7 @@ summary em {
   <div class="course-meta">PHIL 42415</div>
 
   <div class="course-description">
-    <strong>2027–2027</strong> · Module Lead · Lectures · Seminars  
+    <strong>2026–2027</strong> · Module Lead · Lectures · Seminars  
     <br>
     <em>Lecture topic:</em> Ethics and Bias in Data Science
   </div>

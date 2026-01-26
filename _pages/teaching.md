@@ -1,86 +1,105 @@
---- 
-layout: archive 
-title: "Teaching" 
-permalink: /teaching/ 
-author_profile: true 
 ---
 
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+--------------------
+
 <style>
-.indented { padding-left: 50pt; padding-right: 50pt; }
+.teaching-section { margin-bottom: 2.5rem; }
+.teaching-role { margin-top: 1.25rem; }
+.teaching-list li { margin-bottom: 0.35rem; }
+details { margin: 0.75rem 0 1.25rem 0; }
+summary { cursor: pointer; font-weight: 600; }
+summary em { font-weight: 400; }
 </style>
 
-## Teaching Experience (Instructor of Record)
+## Teaching Experience
+
+### Instructor of Record
+
+<div class="teaching-section"></div>
 
 ### Durham University
 
-**Module Lead**
+<div class="teaching-role">
+<strong>Module Lead</strong>
+<ul class="teaching-list">
+  <li><strong>2025–2026</strong> · <em>The Philosophical Traditions</em> (PHIL 1091)</li>
+  <li><strong>2025–2026</strong> · <em>Political Philosophy</em> (PHIL 2081)</li>
+</ul>
+</div>
 
-* **2025–2026** · *The Philosophical Traditions* (PHIL 1091)
-* **2025–2026** · *Political Philosophy* (PHIL 2081)
+<div class="teaching-role">
+<strong>Lectures</strong>
+<ul class="teaching-list">
+  <li><strong>2025–2026</strong> · <em>Ethics and Values</em> (PHIL 1011) — Moral Monsters and Moral Panics</li>
+  <li><strong>2025–2026</strong> · <em>The Philosophical Traditions</em> (PHIL 1091) — Deductive and Inductive Logics</li>
+  <li><strong>2025–2026</strong> · <em>Political Philosophy</em> (PHIL 2081) — The Evolution of the Social Contract</li>
+  <li><strong>2025–2026</strong> · <em>Ethics and Bias in Data Science</em> (PHIL 42415) — From Curation to Crawling: Paradigm Shifts in AI Research</li>
+  <li><strong>2024–2025</strong> · <em>Ethics and Values</em> (PHIL 1011) — Metaethics</li>
+  <li><strong>2024–2025</strong> · <em>Political Philosophy</em> (PHIL 2081) — Justice at the Margins of Society</li>
+</ul>
+</div>
 
-**Lectures**
-
-* **2025–2026** · *Ethics and Values* (PHIL 1011) — *Moral Monsters and Moral Panics*
-* **2025–2026** · *The Philosophical Traditions* (PHIL 1091) — *Deductive and Inductive Logics*
-* **2025–2026** · *Political Philosophy* (PHIL 2081) — *The Evolution of the Social Contract*
-* **2025–2026** · *Ethics and Bias in Data Science* (PHIL 42415) — *From Curation to Crawling: Paradigm Shifts in AI Research*
-* **2024–2025** · *Ethics and Values* (PHIL 1011) — *Metaethics*
-* **2024–2025** · *Political Philosophy* (PHIL 2081) — *Justice at the Margins of Society*
-
-**Seminars and Tutorials**
-
-* **2025–2026** · *The Philosophical Traditions*
-* **2025–2026** · *Ethics and Values*
-* **2025–2026** · *Political Philosophy*
-* **2024–2025** · *The Philosophical Traditions*
-* **2024–2025** · *Fundamentals of Logics*
-* **2024–2025** · *Issues in Contemporary Ethics*
-* **2024–2025** · *Ethics and Bias in Data Science* (Master’s)
+<div class="teaching-role">
+<strong>Seminars & Tutorials</strong>
+<ul class="teaching-list">
+  <li><strong>2025–2026</strong> · <em>The Philosophical Traditions</em></li>
+  <li><strong>2025–2026</strong> · <em>Ethics and Values</em></li>
+  <li><strong>2025–2026</strong> · <em>Political Philosophy</em></li>
+  <li><strong>2024–2025</strong> · <em>The Philosophical Traditions</em></li>
+  <li><strong>2024–2025</strong> · <em>Fundamentals of Logics</em></li>
+  <li><strong>2024–2025</strong> · <em>Issues in Contemporary Ethics</em></li>
+  <li><strong>2024–2025</strong> · <em>Ethics and Bias in Data Science</em> (Master’s)</li>
+</ul>
+</div>
 
 ---
 
 ### Dalhousie University
 
 <details>
-<summary><strong>Winter 2024 · Social, Ethical, and Professional Issues in Computer Science</strong> (PHIL 2490 / CSCI 3101)</summary>
+<summary>Winter 2024 · <em>Social, Ethical, and Professional Issues in Computer Science</em> (PHIL 2490 / CSCI 3101)</summary>
 
-This course examines ethical, social, and professional issues arising from the use and misuse of computers and digital technologies. Oriented toward the perspective of computing professionals, it develops ethical reasoning skills and sensitivity to the challenges faced by practitioners and users alike in an increasingly online world. Particular attention is paid to the distinctive ethical features of computer hardware and infrastructure, software, and data.
+This course examines ethical, social, and professional issues arising from the use and misuse of digital technologies. Emphasis is placed on ethical reasoning from the perspective of computing professionals, with particular attention to hardware, software, data, and their distinctive normative features.
 
 **Syllabus:** [Winter 2024](https://travislacroix.github.io/files/LaCroix-Dalhousie-PHIL-2490-CSCI-3101-Winter-2024-Syllabus.pdf)
 
 </details>
 
 <details>
-<summary><strong>Winter 2024 · Case Studies in Computing and Society</strong> (ASSC 1801)</summary>
+<summary>Winter 2024 · <em>Case Studies in Computing and Society</em> (ASSC 1801)</summary>
 
-This course explores the ethical and philosophical challenges posed by increasingly powerful and socially embedded AI systems, focusing on the control problem and the value-alignment problem in machine ethics. Students examine both normative questions (which values ought to guide AI systems) and technical questions (how such values might be implemented), as well as the real-world consequences of misaligned AI.
+This course explores the ethical and philosophical challenges posed by increasingly powerful and socially embedded AI systems, focusing on the control problem and the value-alignment problem. Students examine normative, technical, and social dimensions of AI alignment.
 
 **Syllabus:** forthcoming
 
 </details>
 
 <details>
-<summary><strong>Autumn 2023 · Philosophy of Social Science</strong> (PHIL 3520/5520; POLI 3496)</summary>
+<summary>Autumn 2023 · <em>Philosophy of Social Science</em> (PHIL 3520/5520; POLI 3496)</summary>
 
-This course introduces formal approaches—including evolutionary game theory, network models, and agent-based models—to the explanation of social phenomena. Emphasis is placed on the philosophical foundations, conceptual assumptions, and methodological implications of these tools for contemporary social science.
+An introduction to formal approaches—evolutionary game theory, network models, and agent-based models—and their philosophical foundations. The course emphasizes conceptual clarity, explanatory scope, and methodological implications for social science.
 
 **Syllabus:** [Autumn 2023](http://travislacroix.github.io/files/LaCroix-Dalhousie-Fall-2023-PHIL-3520-5520-POLI-3496-Syllabus.pdf)
 
 </details>
 
 <details>
-<summary><strong>Autumn 2023 · Logic: Understanding Scientific Reasoning</strong> (PHIL 2660)</summary>
+<summary>Autumn 2023 · <em>Logic: Understanding Scientific Reasoning</em> (PHIL 2660)</summary>
 
-Focusing on inductive logic, this course examines how scientific reasoning proceeds under uncertainty. Students are introduced to deductive logic as a foundation before exploring probabilistic reasoning, classic problems of induction, and common reasoning errors, with applications to everyday and scientific contexts.
+This course introduces inductive logic and probabilistic reasoning as tools for understanding scientific inference under uncertainty. Students examine classic philosophical problems of induction alongside practical reasoning strategies.
 
-*Adapted, with permission, from Dr Aydin Mohseni’s course design for LPS 31 (UC Irvine).*
+<em>Adapted, with permission, from Dr Aydin Mohseni’s course design for LPS 31 (UC Irvine).</em>
 
 </details>
 
 <details>
-<summary><strong>Autumn 2022 · Topics in Philosophy of Psychology</strong> (PHIL 4070/5070) — <em>Philosophy on the Spectrum</em></summary>
+<summary>Autumn 2022 · <em>Topics in Philosophy of Psychology</em> (PHIL 4070/5070) — Philosophy on the Spectrum</summary>
 
-This seminar explores autism as a philosophically rich topic spanning ethics, philosophy of mind, philosophy of psychology, and philosophy of medicine. Drawing extensively on autistic perspectives, the course combines historical analysis with contemporary philosophical debates and nontraditional scholarly media.
+A seminar on autism as a philosophically rich topic spanning ethics, philosophy of mind, philosophy of psychology, and philosophy of medicine. The course foregrounds autistic perspectives and nontraditional philosophical media.
 
 **Syllabus:** [Autumn 2022](https://travislacroix.github.io/files/LaCroix-Dalhousie-Fall-2022-PHIL-4070-5070-Syllabus.pdf)
 
@@ -91,9 +110,9 @@ This seminar explores autism as a philosophically rich topic spanning ethics, ph
 ### University of Toronto
 
 <details>
-<summary><strong>Summer 2021 · Seminar in Philosophy of Science</strong> (PHIL 455) — <em>AI and the Value-Alignment Problem</em></summary>
+<summary>Summer 2021 · <em>Seminar in Philosophy of Science</em> (PHIL 455) — AI and the Value-Alignment Problem</summary>
 
-This seminar investigates philosophical, ethical, and technical dimensions of aligning artificial intelligence with human values, with particular emphasis on moral agency, control, and societal impact.
+A research seminar on the ethical, philosophical, and technical challenges of aligning artificial intelligence with human values, with emphasis on control, moral agency, and societal impact.
 
 **Syllabus:** [Summer 2021](https://travislacroix.github.io/files/LaCroix-PHIL-455-Syllabus-Final.pdf)
 
@@ -101,22 +120,28 @@ This seminar investigates philosophical, ethical, and technical dimensions of al
 
 ---
 
-## Teaching Experience (Teaching Assistant)
+## Teaching Experience
 
-### University of California, Irvine
+### Teaching Assistant
 
-* Spring 2018 · *Inductive Logic*
-* Winter 2018 · *Introduction to Linguistics*
-* Autumn 2017 · *Acquisition of Language*
-* Spring 2017 · *Inductive Logic*
-* Winter 2017 · *Probability and Statistics for Economics*
+#### University of California, Irvine
 
-### Simon Fraser University
+<ul class="teaching-list">
+  <li>Spring 2018 · <em>Inductive Logic</em></li>
+  <li>Winter 2018 · <em>Introduction to Linguistics</em></li>
+  <li>Autumn 2017 · <em>Acquisition of Language</em></li>
+  <li>Spring 2017 · <em>Inductive Logic</em></li>
+  <li>Winter 2017 · <em>Probability and Statistics for Economics</em></li>
+</ul>
 
-* Winter 2016 · *Critical Thinking*
-* Autumn 2015 · *Critical Thinking*
-* Winter 2015 · *Critical Thinking*
-* Autumn 2014 · *Introduction to Ethics*
+#### Simon Fraser University
+
+<ul class="teaching-list">
+  <li>Winter 2016 · <em>Critical Thinking</em></li>
+  <li>Autumn 2015 · <em>Critical Thinking</em></li>
+  <li>Winter 2015 · <em>Critical Thinking</em></li>
+  <li>Autumn 2014 · <em>Introduction to Ethics</em></li>
+</ul>
 
 ---
 
@@ -124,8 +149,8 @@ This seminar investigates philosophical, ethical, and technical dimensions of al
 
 ### Saint Mary’s University
 
-* “Autism and Neurodiversity,” *Healthcare Ethics and the Law* — 3 Oct 2023
+* “Autism and Neurodiversity,” <em>Healthcare Ethics and the Law</em> — 3 Oct 2023
 
 ### University of California, Irvine
 
-* “Language and Cognition,” *Acquisition of Language* — 1 Dec 2017
+* “Language and Cognition,” <em>Acquisition of Language</em> — 1 Dec 2017

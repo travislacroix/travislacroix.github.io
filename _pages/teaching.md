@@ -74,39 +74,90 @@ summary em {
 <div class="course-grid">
 
 <div class="course-card">
-<h4>The Philosophical Traditions</h4>
-<div class="course-meta">PHIL 1091 · 2025–2026</div>
-<div class="course-role">Module Lead · Lectures · Seminars</div>
-<div class="course-description">
-Lectures on deductive and inductive logics; seminars across the full curriculum.
-</div>
+  <h4>Ethics and Values Philosophy</h4>
+  <div class="course-meta">PHIL 1011</div>
+
+  <div class="course-description">
+    <strong>2026–2027</strong> · Lectures · Seminars  
+    <br>
+    <em>Lecture topic:</em> Moral panics and moral monsters
+  </div>
+  
+  <div class="course-description">
+    <strong>2025–2026</strong> · Lectures · Seminars  
+    <br>
+    <em>Lecture topic:</em> Moral panics and moral monsters
+  </div>
+
+  <div class="course-description">
+    <strong>2024–2025</strong> · Lectures · Seminars
+    <br>
+    <em>Lecture topic:</em> Meta-ethics
+  </div>
 </div>
 
-<div class="course-card">
-<h4>Political Philosophy</h4>
-<div class="course-meta">PHIL 2081 · 2025–2026</div>
-<div class="course-role">Module Lead · Lectures · Seminars</div>
-<div class="course-description">
-Lectures on the evolution of the social contract and justice at the margins of society.
-</div>
-</div>
 
 <div class="course-card">
-<h4>Ethics and Values</h4>
-<div class="course-meta">PHIL 1011 · 2024–2026</div>
-<div class="course-role">Lectures · Seminars</div>
-<div class="course-description">
-Topics include moral monsters, moral panics, and metaethics.
-</div>
+  <h4>The Philosophical Traditions</h4>
+  <div class="course-meta">PHIL 1091</div>
+  
+  <div class="course-description">
+    <strong>2025–2026</strong> · Module Lead · Lectures · Seminars  
+    <br>
+    <em>Lecture topic:</em> Deductive and Inductive Logics
+  </div>
+
+  <div class="course-description">
+    <strong>2024–2025</strong> · Seminars  
+    <br>
+  </div>
 </div>
 
+
 <div class="course-card">
-<h4>Ethics and Bias in Data Science</h4>
-<div class="course-meta">PHIL 42415 · 2024–2026</div>
-<div class="course-role">Lectures · Master's Seminars</div>
-<div class="course-description">
-From curation to crawling: paradigm shifts in AI research.
+  <h4>Political Philosophy</h4>
+  <div class="course-meta">PHIL 2081</div>
+
+  <div class="course-description">
+    <strong>2026–2027</strong> · Lectures · Seminars  
+    <br>
+    <em>Lecture topic:</em> Violence
+  </div>
+  
+  <div class="course-description">
+    <strong>2025–2026</strong> · Module Lead · Lectures · Seminars  
+    <br>
+    <em>Lecture topic:</em> The evolution of the social contract
+  </div>
+
+  <div class="course-description">
+    <strong>2024–2025</strong> · Lectures  
+    <br>
+    <em>Lecture topic:</em> Justice at the margins of society
+  </div>
 </div>
+
+
+<div class="course-card">
+  <h4>Ethics of AI and Data Science</h4>
+  <div class="course-meta">PHIL 42415</div>
+
+  <div class="course-description">
+    <strong>2027–2027</strong> · Module Lead · Lectures · Seminars  
+    <br>
+    <em>Lecture topic:</em> Ethics and Bias in Data Science
+  </div>
+
+  <div class="course-description">
+    <strong>2025–2026</strong> · Lectures · Seminars  
+    <br>
+    <em>Lecture topic:</em> From curation to crawling: paradigm shifts in AI research
+  </div>
+
+  <div class="course-description">
+    <strong>2024–2025</strong> · Seminars  
+    <br>
+  </div>
 </div>
 
 <div class="course-card">

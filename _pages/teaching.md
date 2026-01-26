@@ -74,7 +74,7 @@ summary em {
 <div class="course-grid">
 
 <div class="course-card">
-  <h4>Ethics and Values Philosophy</h4>
+  <h4>Ethics and Values</h4>
   <div class="course-meta">PHIL 1011</div>
 
   <div class="course-description">

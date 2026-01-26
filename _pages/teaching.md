@@ -1,10 +1,9 @@
+--- 
+layout: archive 
+title: "Teaching" 
+permalink: /teaching/ 
+author_profile: true 
 ---
-
-layout: archive
-title: "Teaching"
-permalink: /teaching/
-author_profile: true
---------------------
 
 <style>
 .teaching-section { margin-bottom: 2.5rem; }

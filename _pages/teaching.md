@@ -137,6 +137,25 @@ summary em {
   </div>
 </div>
 
+<div class="course-card">
+  <h4>Fundamentals of Logics</h4>
+  <div class="course-meta">PHIL 2181</div>
+
+  <div class="course-description">
+    <strong>2025–2026</strong> · Tutorials  
+  </div>
+
+</div>
+
+<div class="course-card">
+  <h4>Issues in Contemporary Ethics</h4>
+  <div class="course-meta">PHIL 3131</div>
+
+  <div class="course-description">
+    <strong>2024–2025</strong> · Tutorials  
+  </div>
+
+</div>
 
 <div class="course-card">
   <h4>Ethics of AI and Data Science</h4>
@@ -144,8 +163,6 @@ summary em {
 
   <div class="course-description">
     <strong>2026–2027</strong> · Module Lead · Lectures · Seminars  
-    <br>
-    <em>Lecture topic:</em> Ethics and Bias in Data Science
   </div>
 
   <div class="course-description">
@@ -161,16 +178,14 @@ summary em {
 </div>
 
 <div class="course-card">
-<h4>Fundamentals of Logics</h4>
-<div class="course-meta">2024–2025</div>
-<div class="course-role">Seminars</div>
-</div>
+  <h4>Current Issues in Metaphysics, Mind, and Language</h4>
+  <div class="course-meta">PHIL 42730</div>
 
-<div class="course-card">
-<h4>Issues in Contemporary Ethics</h4>
-<div class="course-meta">2024–2025</div>
-<div class="course-role">Seminars</div>
-</div>
+  <div class="course-description">
+    <strong>2026–2027</strong> · Seminars  
+    <br>
+    <em>Seminar topic:</em> TBA
+  </div>
 
 </div>
 

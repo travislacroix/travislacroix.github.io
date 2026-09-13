@@ -78,19 +78,19 @@ summary em {
   <div class="course-meta">PHIL 1011</div>
 
   <div class="course-description">
-    <strong>2026–2027</strong> · Lectures · Seminars  
+    <strong>2026–2027</strong> · Lectures · Tutorials  
     <br>
     <em>Lecture topic:</em> Moral panics and moral monsters
   </div>
   
   <div class="course-description">
-    <strong>2025–2026</strong> · Lectures · Seminars  
+    <strong>2025–2026</strong> · Lectures · Tutorials  
     <br>
     <em>Lecture topic:</em> Moral panics and moral monsters
   </div>
 
   <div class="course-description">
-    <strong>2024–2025</strong> · Lectures · Seminars
+    <strong>2024–2025</strong> · Lectures · Tutorials
     <br>
     <em>Lecture topic:</em> Meta-ethics
   </div>
@@ -102,13 +102,13 @@ summary em {
   <div class="course-meta">PHIL 1091</div>
   
   <div class="course-description">
-    <strong>2025–2026</strong> · Module Lead · Lectures · Seminars  
+    <strong>2025–2026</strong> · Module Lead · Lectures · Tutorials  
     <br>
     <em>Lecture topic:</em> Deductive and Inductive Logics
   </div>
 
   <div class="course-description">
-    <strong>2024–2025</strong> · Seminars  
+    <strong>2024–2025</strong> · Tutorials  
     <br>
   </div>
 </div>
@@ -119,13 +119,13 @@ summary em {
   <div class="course-meta">PHIL 2081</div>
 
   <div class="course-description">
-    <strong>2026–2027</strong> · Lectures · Seminars  
+    <strong>2026–2027</strong> · Lectures · Tutorials  
     <br>
     <em>Lecture topic:</em> Violence
   </div>
   
   <div class="course-description">
-    <strong>2025–2026</strong> · Module Lead · Lectures · Seminars  
+    <strong>2025–2026</strong> · Module Lead · Lectures · Tutorials  
     <br>
     <em>Lecture topic:</em> The evolution of the social contract
   </div>
@@ -153,6 +153,18 @@ summary em {
 
   <div class="course-description">
     <strong>2024–2025</strong> · Tutorials  
+  </div>
+
+</div>
+
+<div class="course-card">
+  <h4>Formal and Philosophical Logic</h4>
+  <div class="course-meta">PHIL 3201</div>
+
+  <div class="course-description">
+    <strong>2026–2027</strong> · Module Lead · Seminars  
+    <br>
+    <em>Seminar topic:</em> Set Theory
   </div>
 
 </div>
@@ -187,6 +199,7 @@ summary em {
     <em>Seminar topic:</em> TBA
   </div>
 
+</div>
 </div>
 
 ---
